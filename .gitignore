@@ -5,3 +5,28 @@ __pycache__/
 .venv/
 ~$*
 
+# Local contest materials and installed skills
+/.agents/
+/04-教学参考/资料/
+/资料/
+
+# Track the empty workflow directories, keep working files local
+/01-解题/原题与附件/*
+!/01-解题/原题与附件/.gitkeep
+/01-解题/模型与代码/*
+!/01-解题/模型与代码/.gitkeep
+/01-解题/结果与检验/*
+!/01-解题/结果与检验/.gitkeep
+/02-论文/写作工作区/*
+!/02-论文/写作工作区/.gitkeep
+/02-论文/AI使用记录/*
+!/02-论文/AI使用记录/.gitkeep
+/03-提交/01-电子档论文/*
+!/03-提交/01-电子档论文/.gitkeep
+/03-提交/02-承诺书/*
+!/03-提交/02-承诺书/.gitkeep
+/03-提交/03-AI使用说明/*
+!/03-提交/03-AI使用说明/.gitkeep
+/03-提交/04-支撑材料/*
+!/03-提交/04-支撑材料/.gitkeep
+
